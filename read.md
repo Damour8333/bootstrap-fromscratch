@@ -1,6 +1,6 @@
 https://www.youtube.com/watch?v=ksNQZOA1veo
 
-29.04
+1.37
 
 echo "# bootstrap-fromscratch" >> README.md
 git init
